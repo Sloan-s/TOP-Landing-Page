@@ -128,3 +128,40 @@ header{
 .quote> strong{
     margin-left: 600px;
 }
+
+.action{
+    margin: 100px;
+    padding: 50px;
+    background-color: #3882f6;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap 20px
+}
+
+.action> button{
+    background-color: #3882f6;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 30px;
+    width: 120px;
+}
+
+.action-heading{
+    font-size: 24px;
+    font-weight: 700px;
+    margin-bottom: -10px;
+}
+
+.footer{
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding: 7px;
+}
