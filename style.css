@@ -138,7 +138,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    gap 20px
+    gap: 20px;
 }
 
 .action> button{
